@@ -49,10 +49,6 @@ pip install -r requirements.txt
 python Recipe Recommendations.ipynb
 ```
 
-## Evaluation
-
-The model achieves an accuracy of XX% on the dataset and is evaluated on a validation set using categorical crossentropy as the loss function. The performance of the model is plotted using training and validation accuracy/loss graphs.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
