@@ -11,7 +11,7 @@ The deep learning model uses LSTM layers to capture the context of the recipe de
 ## Datasets
 
 The dataset consists of the following columns:
-
+ 
 1. **Describe**: Textual descriptions of the recipes.
 2. **C_Type**: The category or type of the recipe (e.g., Dessert, Main Course). This is used as the target for classification.
 
