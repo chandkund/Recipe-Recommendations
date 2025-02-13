@@ -1,6 +1,6 @@
 # Recipe Recommendations
      
-This project builds a machine learning model to recommend and classify recipes based on their descriptions using a deep learning approach with LSTM layers.       
+This project builds a machine learning model to recommend and classify recipes based on their descriptions using a deep learning approach with LSTM layers.        
   
 ## Project Overview  
  
