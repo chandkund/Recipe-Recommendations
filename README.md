@@ -9,7 +9,7 @@ The Recipe Recommendations project leverages natural language processing (NLP) t
 The deep learning model uses LSTM layers to capture the context of the recipe descriptions, and it is trained on labeled data to classify the recipes into various categories.
 
 ## Datasets
-
+  
 The dataset consists of the following columns:
  
 1. **Describe**: Textual descriptions of the recipes.
