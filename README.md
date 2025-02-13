@@ -5,7 +5,7 @@ This project builds a machine learning model to recommend and classify recipes b
 ## Project Overview  
  
 The Recipe Recommendations project leverages natural language processing (NLP) techniques to process recipe descriptions and classify them into categories like desserts, main courses, and more. The system provides personalized recommendations by analyzing the text input and suggesting relevant recipes.
-
+ 
 The deep learning model uses LSTM layers to capture the context of the recipe descriptions, and it is trained on labeled data to classify the recipes into various categories.
 
 ## Datasets
